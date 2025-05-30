@@ -54,13 +54,13 @@ Mean Squared Error (MSE)
 
 Root Mean Squared Error (RMSE)
 
-R-squared (R²)
+R-squared 
 
 ->Model Evaluation & Insights
 1. Performance Metrics
 MSE & RMSE: Measured prediction errors (lower values indicate better accuracy).
 
-R² Score: Indicated how well the model explained grade variations (0 to 1, where 1 is perfect prediction).
+R-squared  Score: Indicated how well the model explained grade variations (0 to 1, where 1 is perfect prediction).
 
 2. Key Findings from the Decision Tree
 The visualized tree (limited to depth=3 for readability) revealed:
